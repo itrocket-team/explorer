@@ -1,0 +1,21 @@
+{
+  "chain_name": "NIBIRU",
+  "api": [
+    "https://nibiru-testnet-api.itrocket.net"
+  ],
+  "rpc": [
+    "https://nibiru-testnet-rpc.itrocket.net"
+  ],
+  "sdk_version": "0.45.10",
+  "addr_prefix": "unibi",
+  "min_tx_fee": "800",
+  "logo": "/logos/nibiru.png",
+  "assets": [
+    {
+      "symbol": "NIBIRU",
+      "base": "unibi",
+      "exponent": 6,
+      "logo": "/logos/nibiru.png"
+    }
+  ]
+}

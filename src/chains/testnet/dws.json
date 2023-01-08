@@ -1,8 +1,8 @@
 {
     "chain_name": "DWS",
     "coingecko": "",
-    "api": "https://dws-api.skynetvalidators.com",
-    "rpc": [],
+    "api": ["https://deweb-testnet-api.itrocket.net","https://dws-api.skynetvalidators.com"],
+    "rpc": ["https://deweb-testnet-rpc.itrocket.net"],
     "snapshot_provider": "",
     "sdk_version": "0.44.3",
     "coin_type": "118",
