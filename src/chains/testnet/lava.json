@@ -1,0 +1,21 @@
+{
+  "chain_name": "LAVA",
+  "api": [
+    "https://lava-testnet-api.itrocket.net"
+  ],
+  "rpc": [
+    "https://lava-testnet-rpc.itrocket.net"
+  ],
+  "sdk_version": "0.45.11",
+  "addr_prefix": "ulava",
+  "min_tx_fee": "800",
+  "logo": "/logos/lava_logo.svg",
+  "assets": [
+    {
+      "symbol": "LAVA",
+      "base": "ulava",
+      "exponent": 6,
+      "logo": "/logos/lava_logo.jpg"
+    }
+  ]
+}

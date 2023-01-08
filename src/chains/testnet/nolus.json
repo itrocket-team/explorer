@@ -1,0 +1,21 @@
+{
+  "chain_name": "NOLUS",
+  "api": [
+    "https://nolus-testnet-api.itrocket.net"
+  ],
+  "rpc": [
+    "https://nolus-testnet-rpc.itrocket.net"
+  ],
+  "sdk_version": "0.45.10",
+  "addr_prefix": "unls",
+  "min_tx_fee": "800",
+  "logo": "/logos/nolus.png",
+  "assets": [
+    {
+      "symbol": "NOLUS",
+      "base": "unls",
+      "exponent": 6,
+      "logo": "/logos/nolus.png"
+    }
+  ]
+}
