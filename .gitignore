@@ -24,6 +24,7 @@ yarn-error.log*
 
 # script
 /vuexy-scripts
+/build-explorer.sh
 
 # Docs
 /docs/.temp
